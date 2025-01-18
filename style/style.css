@@ -1,0 +1,436 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 120px;
+}
+
+.banner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #C6E4D6;
+    /* Replace with the color from Figma */
+    padding: 30px;
+    border-radius: 24px;
+}
+
+.banner-text {
+    max-width: 50%;
+}
+
+.banner-text h1 {
+    font-size: 2.5rem;
+    margin-top: 10px;
+    color: #333;
+    /* Replace with the heading color from Figma */
+    font-weight: 600;
+    color: #0E0E0E;
+}
+
+.banner-text p {
+    font-size: 1.2rem;
+    color: #666;
+    /* Replace with the text color from Figma */
+}
+
+.banner-text h3 {
+    color: #666666;
+}
+
+.banner-image {
+    max-width: 40%;
+}
+
+.banner-image img {
+    width: 100%;
+    height: auto;
+}
+
+.btn-primary {
+    background-color: #006A50;
+    color: #FFFFFF;
+    padding: 20px;
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 8px;
+    border: none;
+}
+
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.vision-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px;
+    padding: 5px;
+    margin-top: 20px;
+}
+
+.vision-head {
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: #0E0E0E;
+
+}
+
+.card-section {
+    display: flex;
+    margin-top: 20px;
+    gap: 30px;
+}
+
+.card-1 {
+    margin-top: 20px;
+    background-color: #b0c6eb;
+    border-radius: 16px;
+    padding: 25px;
+}
+
+.card-2 {
+    margin-top: 20px;
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    padding: 25px;
+}
+
+.card-3 {
+    margin-top: 20px;
+    background-color: #F7EBCF;
+    border-radius: 16px;
+    padding: 25px;
+}
+
+.card-h {
+    margin-top: 20px;
+}
+
+.card-p {
+    margin-top: 20px;
+}
+
+.card-button-1 {
+    margin-top: 20px;
+    padding: 8px;
+    color: #FFFFFF;
+    background-color: #5490F5;
+    border-radius: 8px;
+    border: none;
+    font-size: 16px;
+}
+
+.card-button-2 {
+    margin-top: 20px;
+    padding: 8px;
+    color: #FFFFFF;
+    background-color: #09A15C;
+    border-radius: 8px;
+    border: none;
+    font-size: 16px;
+
+}
+
+.card-button-3 {
+    margin-top: 20px;
+    padding: 8px;
+    color: #FFFFFF;
+    background-color: #FFC239;
+    border-radius: 8px;
+    border: none;
+    font-size: 16px;
+
+}
+
+.news-card-1 {
+    display: flex;
+    margin-top: 20px;
+    padding: 48px 48px;
+    border-radius: 24px;
+    background-color: #F1F1F3;
+}
+
+.news-head {
+    margin-top: 50px;
+    font-size: 32px;
+    color: #0E0E0E;
+    font-weight: 600;
+
+}
+
+.news-image {
+    height: 306px;
+    width: 408px;
+    border-radius: 24px;
+}
+
+.news-content-1 {
+    margin-left: 50px;
+}
+
+.news-footer {
+    margin-top: 20px;
+
+}
+
+.span-1 {
+    margin-top: 10px;
+    display: flex;
+}
+
+.span-2 {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.news-p {
+    margin-top: 20px;
+}
+
+.news-button {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #006A50;
+    color: #FFFFFF;
+    border-radius: 8px;
+    border: none;
+    font-size: 18px;
+}
+
+.news-card-2 {
+    margin-top: 20px;
+    display: flex;
+    padding: 48px 48px;
+    border-radius: 24px;
+    background-color: #F1F1F3;
+}
+
+.news-image-2 {
+    border-radius: 24px;
+}
+
+.donate-section {
+    margin-top: 20px;
+}
+
+.donate-header {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+
+}
+
+.donation-options {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+
+}
+
+.donation-card-1 {
+    margin-left: 20px;
+    padding: 25px 50px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #0E0E0E;
+    background-color: #cacaca;
+    border-radius: 16px;
+    border: none;
+}
+
+.donation-card-2 {
+    margin-left: 20px;
+    padding: 25px 50px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #0E0E0E;
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    border: none;
+}
+
+.donation-card-3 {
+    margin-left: 20px;
+    padding: 25px 50px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #0E0E0E;
+    background-color: #cacaca;
+    border-radius: 16px;
+    border: none;
+}
+
+.donation-card-4 {
+    margin-left: 20px;
+    padding: 25px 50px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #0E0E0E;
+    background-color: #cacaca;
+    border-radius: 16px;
+    border: none;
+    border: none;
+}
+
+.donation-input {
+    margin-left: 385px;
+    padding: 10px 300px;
+    background-color: #cacaca;
+    border: none;
+    margin-top: -20px;
+}
+
+.donation-button {
+    margin-top: 20px;
+    margin-left: 700px;
+    padding: 10px 20px;
+    background-color: #006A50;
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 8px;
+    border: none;
+}
+
+.newsletter-section {
+    text-align: center;
+    background-color: #C6E4D6;
+    padding: 80px 100px;
+    border-radius: 24px;
+    margin-top: 50px;
+
+}
+
+.newsletter-h {
+    margin-bottom: 20px;
+    color: #0E0E0E;
+    font-size: 40px;
+}
+
+.newsletter-content {
+    margin-bottom: 20px;
+}
+
+.newsletter-form {
+    margin-bottom: 20px;
+    width: 60%;
+    max-width: 400px;
+    padding: 15px;
+    border-radius: 5px;
+    border: none;
+    background-color: #FFFFFF;
+}
+
+.newsletter-button {
+    padding: 14px;
+    max-width: 400px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #006A50;
+    border: none;
+    border-radius: 5px;
+}
+
+.news-card {
+    margin-top: 20px;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+.donation-options {
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.donation-options,
+.news-card,
+.donate-section,
+.newsletter-section {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.donation-options:hover,
+.donate-section:hover,
+.news-card:hover,
+.newsletter-section {
+    transform: translateY(-5px);
+    /* Lift effect on hover */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    /* Enhanced shadow */
+}
+
+/* Donation Section Cards - Background Change on Hover */
+.donation-options {
+    background-color: ##e8f5e9;
+    /* Default background color */
+    transition: background-color 0.3s ease;
+}
+
+.donate-section:hover {
+    background-color: #e8f5e9;
+    /* Light green background on hover */
+}
+
+/* Buttons - Hover Animations */
+button {
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+    background-color: #00563d;
+    /* Darker shade for hover */
+    transform: scale(1.05);
+    /* Slight zoom effect */
+}
+
+/* Newsletter Button */
+.newsletter-button button:hover {
+    background-color: #ccc;
+    /* Change hover background for newsletter button */
+    color: #006A50;
+    /* Text color changes */
+}
+
+/* .news-card {
+    /* background-color: #ffffff; */
+/* Default white background */
+/* transition: background-color 0.3s ease; */
+}
+
+ .news-card:hover {
+    background-color: #f1f1f1;
+    /* Light gray background on hover */
+}
+
+.quote-section {
+    margin-top: 20px;
+    background-color: #F1F1F3;
+    padding: 30px 48px;
+    border-radius: 16px;
+
+}
+
+.quote-author {
+    margin-top: 20px;
+    margin-left: 50px;
+    
+}
+.position{
+    margin-left: 50px;
+}
+.icon-img{
+    margin-left: 50px;
+}
+
+.block-quote {
+    margin-left: 50px;
+ }
